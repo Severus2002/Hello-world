@@ -11,3 +11,9 @@ git commit -m "message"   // to create a commit/checkpoint
 git status                // to check current status of repo
 
 git log --oneline         // to see one liners log
+
+git checkout -b <branch>  // to create new branch
+
+git checkout commit_id    // to switch to any commit
+
+git checkout branch_name  // to switch to given branch
