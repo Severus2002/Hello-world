@@ -1,3 +1,13 @@
-git init // initialize a repository as git repo
+git init                  // initialize a repository as git repo
 
 1 commit is equivalent to a checkpoint
+
+git log                   // to check all the commits
+
+git add <file_name>       // to add file for git to track or staging the file_name
+
+git commit -m "message"   // to create a commit/checkpoint
+
+git status                // to check current status of repo
+
+git log --oneline         // to see one liners log
